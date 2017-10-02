@@ -1,1 +1,3 @@
 # GorinoGame
+
+Alpha version
